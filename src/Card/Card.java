@@ -1,7 +1,11 @@
 package Card;
 
 public class Card {
-    public Card(String question, String answer, String category) {
+    String question;
+    String answer;
+    String category;
+
+    public Card() {
     System.out.println("Whats up!");
     }
 }

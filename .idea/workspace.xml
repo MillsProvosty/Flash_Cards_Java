@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/CardTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flash_Cards_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Flash_Cards_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/CardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +35,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -62,7 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Card in Flash_Cards_Java">
     <configuration name="All in Flash_Cards_Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <option name="PACKAGE_NAME" value="" />
@@ -71,8 +69,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Card in Flash_Cards_Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Flash_Cards_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Card.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Card" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Card in Flash_Cards_Java" />
         <item itemvalue="JUnit.All in Flash_Cards_Java" />
       </list>
     </recent_temporary>
@@ -87,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585242605830</updated>
-      <workItem from="1585242607272" duration="4110000" />
+      <workItem from="1585242607272" duration="5358000" />
     </task>
     <servers />
   </component>
@@ -99,22 +112,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="87" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1585242901150" />
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1585340042716">
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom" timestamp="1585341650145">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585340042716" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1585340042715">
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585341650145" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center" timestamp="1585341650144">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585340042715" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1585340042714">
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585341650144" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left" timestamp="1585341650143">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585340042714" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1585340042715">
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585341650143" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right" timestamp="1585341650144">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585340042715" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585341650144" />
     <state x="221" y="61" key="SettingsEditor" timestamp="1585339541632">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
