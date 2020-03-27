@@ -6,6 +6,6 @@ public class Card {
     String category;
 
     public Card() {
-    System.out.println("Whats up!");
+    System.out.println("Making a Card!");
     }
 }
