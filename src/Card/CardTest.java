@@ -1,12 +1,16 @@
-import org.junit.Test;
+package Card;
 
-import static org.junit.jupiter.api.Assertions.*;
+import Card.Card;
+import org.junit.jupiter.api.Test;
+
+
+import static org.junit.Assert.assertNotNull;
 
 class CardTest {
     @Test
     void testCardExists() {
        final Card card1 = new Card("What is the capital of Alaska?", "Juneau", "Geography");
 
-        testCardExists();
+        assertNotNull(card1);
     }
 }
