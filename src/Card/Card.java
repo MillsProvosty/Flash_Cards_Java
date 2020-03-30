@@ -1,11 +1,11 @@
 package Card;
 
 public class Card {
-    String question;
-    String answer;
-    String category;
+    public static String question;
+    public static String answer;
+    public static String category;
 
     public Card() {
-    System.out.println("Whats up!");
+    System.out.println("Making a Card!");
     }
 }

@@ -9,8 +9,6 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.jupiter.api.Assertions.*;
 
 class CardTest {
-    @Before
-
     @Test
     void testCardAndAttributesExists() {
         //given
