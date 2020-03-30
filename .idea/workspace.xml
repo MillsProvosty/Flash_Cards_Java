@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/TurnTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/TurnTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Turn/Turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/Turn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Turn/TurnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/TurnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deck/Deck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -156,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585242605830</updated>
-      <workItem from="1585242607272" duration="9329000" />
+      <workItem from="1585242607272" duration="9570000" />
     </task>
     <servers />
   </component>
