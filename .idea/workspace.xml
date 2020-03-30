@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Deck/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/TurnTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deck/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Turn/Turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/Turn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Turn/TurnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/TurnTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TurnTest.testTurnCanBeIncorrect">
+  <component name="RunManager" selected="JUnit.All in Flash_Cards_Java">
     <configuration name="All in Flash_Cards_Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,31 +77,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Turn in Flash_Cards_Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turn.*" />
+          <option name="PATTERN" value="Card.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Turn" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="Card" />
+      <option name="MAIN_CLASS_NAME" value="Card.CardTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CardTest.testCardAndAttributesExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turn.*" />
+          <option name="PATTERN" value="Card.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Turn" />
-      <option name="MAIN_CLASS_NAME" value="Turn.TurnTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Card" />
+      <option name="MAIN_CLASS_NAME" value="Card.CardTest" />
+      <option name="METHOD_NAME" value="testCardAndAttributesExists" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TurnTest.testTurnCanBeIncorrect" />
-        <item itemvalue="JUnit.TurnTest.testTurnAndAttributesExists" />
         <item itemvalue="JUnit.All in Flash_Cards_Java" />
-        <item itemvalue="JUnit.TurnTest" />
-        <item itemvalue="JUnit.Turn in Flash_Cards_Java" />
+        <item itemvalue="JUnit.TurnTest.testTurnCanBeIncorrect" />
+        <item itemvalue="JUnit.CardTest.testCardAndAttributesExists" />
+        <item itemvalue="JUnit.CardTest" />
+        <item itemvalue="JUnit.TurnTest.testTurnAndAttributesExists" />
       </list>
     </recent_temporary>
   </component>
@@ -165,22 +176,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="607" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1585593185385" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1585593492852">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1585600011400">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585593492852" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1585593492851">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585600011400" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1585600011400">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585593492851" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1585593492851">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585600011400" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1585600011400">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585593492851" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1585593492851">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585600011400" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1585600011400">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585593492851" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585600011400" />
     <state x="221" y="61" key="SettingsEditor" timestamp="1585339541632">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
