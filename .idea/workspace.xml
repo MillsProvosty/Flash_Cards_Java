@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/TurnTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deck/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/Deck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Deck/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/DeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Turn/Turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/Turn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Turn/TurnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/TurnTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
