@@ -7,10 +7,13 @@ import java.util.ArrayList;
 
 public class Deck {
 
-    ArrayList<Card> cards= new Arrayist<>();
+    ArrayList cards;
 
     public Deck(final ArrayList cards) {
         this.cards = cards;
+        System.out.println(cards);
+        System.out.println("Making a Deck!");
+
     }
 
 }

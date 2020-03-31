@@ -17,7 +17,11 @@ public class DeckTest {
         final Card card1 = new Card("What is the capital of Alaska?", "Juneau", "Geography");
         final Card card2 = new Card("The Viking spacecraft sent back to Earth photographs and reports about the surface of which planet?", "Mars", "STEM");
         final Card card3 = new Card("Describe in words the exact direction that is 697.5° clockwise from due north?", "North north west", "STEM");
-        final Deck deck1 = new Deck(card1, card2, card3);
+        final ArrayList cards = new ArrayList;
+        cards.add(card1);
+        cards.add(card2);
+        cards.add(card3);
+        final Deck deck1 = new Deck(cards);
 
 
         //when

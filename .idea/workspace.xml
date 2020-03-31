@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Deck/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/Deck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Deck/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/DeckTest.java" afterDir="false" />
     </list>
