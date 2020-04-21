@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/Deck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/DeckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/META-INF/Flash_Cards_Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deck/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deck/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/DeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Turn/Turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/Turn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +162,7 @@
       <workItem from="1585762491294" duration="32000" />
       <workItem from="1585762549479" duration="244000" />
       <workItem from="1585762850478" duration="1409000" />
-      <workItem from="1585855011981" duration="14493000" />
+      <workItem from="1585855011981" duration="15175000" />
     </task>
     <servers />
   </component>
