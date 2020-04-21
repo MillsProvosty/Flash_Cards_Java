@@ -3,24 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="c713d3d2-7b5b-42d0-a510-06cdcb6a949c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Card/CardTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/Turn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/TurnTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Turn/TurnTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/Deck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Flash_Cards_Java/Deck/DeckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Flash_Cards_Java/META-INF/Flash_Cards_Java.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deck/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deck/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck/DeckTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Turn/Turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/Turn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Turn/TurnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn/TurnTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,6 +49,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,7 +59,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -66,7 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TurnTest.testTurnCanBeIncorrect">
+  <component name="RunManager" selected="JUnit.DeckTest.testDeckExists">
     <configuration name="All in Flash_Cards_Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <option name="PACKAGE_NAME" value="" />
@@ -75,46 +79,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Turn in Flash_Cards_Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CardTest.testCardAndAttributesExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turn.*" />
+          <option name="PATTERN" value="Card.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Turn" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="Card" />
+      <option name="MAIN_CLASS_NAME" value="Card.CardTest" />
+      <option name="METHOD_NAME" value="testCardAndAttributesExists" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DeckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turn.*" />
+          <option name="PATTERN" value="Deck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Turn" />
-      <option name="MAIN_CLASS_NAME" value="Turn.TurnTest" />
+      <option name="PACKAGE_NAME" value="Deck" />
+      <option name="MAIN_CLASS_NAME" value="Deck.DeckTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurnTest.testTurnAndAttributesExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DeckTest.testDeckExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Flash_Cards_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turn.*" />
+          <option name="PATTERN" value="Deck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Turn" />
-      <option name="MAIN_CLASS_NAME" value="Turn.TurnTest" />
-      <option name="METHOD_NAME" value="testTurnAndAttributesExists" />
+      <option name="PACKAGE_NAME" value="Deck" />
+      <option name="MAIN_CLASS_NAME" value="Deck.DeckTest" />
+      <option name="METHOD_NAME" value="testDeckExists" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,13 +144,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TurnTest.testTurnCanBeIncorrect" />
-        <item itemvalue="JUnit.TurnTest.testTurnAndAttributesExists" />
+        <item itemvalue="JUnit.DeckTest.testDeckExists" />
+        <item itemvalue="JUnit.DeckTest" />
         <item itemvalue="JUnit.All in Flash_Cards_Java" />
-        <item itemvalue="JUnit.TurnTest" />
-        <item itemvalue="JUnit.Turn in Flash_Cards_Java" />
+        <item itemvalue="JUnit.TurnTest.testTurnCanBeIncorrect" />
+        <item itemvalue="JUnit.CardTest.testCardAndAttributesExists" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -156,7 +165,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585242605830</updated>
-      <workItem from="1585242607272" duration="9329000" />
+      <workItem from="1585242607272" duration="9570000" />
+      <workItem from="1585762491294" duration="32000" />
+      <workItem from="1585762549479" duration="244000" />
+      <workItem from="1585762850478" duration="1409000" />
+      <workItem from="1585855011981" duration="14493000" />
     </task>
     <servers />
   </component>
@@ -168,30 +181,50 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="87" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1585242901150" />
-    <state x="100" y="123" width="1240" height="607" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585593185385">
+    <state x="100" y="123" width="1240" height="607" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585935310453">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="100" y="123" width="1240" height="607" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1585593185385" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1585593492852">
+    <state x="100" y="123" width="1240" height="607" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1585935310453" />
+    <state x="547" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1587490659202">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585593492852" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1585593492851">
+    <state x="547" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1587490659202" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1587492104165">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585593492851" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1585593492851">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587492104165" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1587492104160">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585593492851" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1585593492851">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587492104160" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1587492104156">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585593492851" />
-    <state x="221" y="61" key="SettingsEditor" timestamp="1585339541632">
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587492104156" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1587492104163">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="61" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585339541632" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587492104163" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1587491827565">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587491827565" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1587491827564">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1587491827564" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1587491827564">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1587491827564" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1587491827565">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587491827565" />
+    <state x="221" y="61" key="SettingsEditor" timestamp="1585762835512">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="61" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585762835512" />
     <state x="424" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585243560069">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -200,5 +233,20 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="499" y="156" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1585341883751" />
+    <state x="97" y="23" key="new project wizard" timestamp="1585848723697">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="97" y="23" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1585848723697" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Turn/TurnTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
