@@ -13,7 +13,7 @@ public class Turn {
     }
 
     public static boolean correct(){
-        if (Turn.guess.equals(Card.answer)){
+        if (Turn.guess.equals(card.answer)){
         return true;
         } else {
             return false;

@@ -1,9 +1,9 @@
 package Card;
 
 public class Card {
-    public static String question;
-    public static String answer;
-    public static String category;
+    public final String question;
+    public final String answer;
+    public final String category;
 
     public Card(final String question, final String answer, final String category) {
         this.question = question;
