@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Deck {
-    public static Card card;
     public List<Card> cards;
 
     public Deck(final List<Card> cards) {

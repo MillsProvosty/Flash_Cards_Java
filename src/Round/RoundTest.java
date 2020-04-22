@@ -1,7 +1,6 @@
 package Round;
 
-import static org.junit.jupiter.api.Assertions.*;
 
-class RoundTest {
+public class RoundTest {
 
 }
