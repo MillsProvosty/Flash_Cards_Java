@@ -28,7 +28,7 @@ public class RoundTest {
 
         //then
         assertEquals(round1.deck.countCards(), 3);
-        
+
 
 
     }
