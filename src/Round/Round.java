@@ -19,6 +19,13 @@ public class Round {
       return deck.cards.iterator().next();
     }
 
+    public String takeTurn(String guess){
+        var card = currentCard();
+        new Turn(guess, card);
+
+
+    }
+
 
 
 }
